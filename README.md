@@ -40,7 +40,7 @@ Perfect for buttons, logos and nav/tab bars. Easy to extend, style and integrate
 - [`FontAwesome`](http://fortawesome.github.io/Font-Awesome/icons/) by Dave Gandy (v4.7.0, **675** icons)
 - [`FontAwesome 5`](https://fontawesome.com) by Fonticons, Inc. (v5.7.0, 1500 (free) **5082** (pro) icons)
 - [`Foundation`](http://zurb.com/playground/foundation-icon-fonts-3) by ZURB, Inc. (v3.0, **283** icons)
-- [`Ionicons`](https://ionicons.com/) by Ben Sperry (v4.2.4, **696** icons)
+- [`Ionicons`](http://ionicframework.com/docs/v2/ionicons/) by Ben Sperry (v3.0.0, **859** icons)
 - [`MaterialIcons`](https://www.google.com/design/icons/) by Google, Inc. (v3.0.1, **932** icons)
 - [`MaterialCommunityIcons`](https://materialdesignicons.com/) by MaterialDesignIcons.com (v3.5.95, **3596** icons)
 - [`Octicons`](http://octicons.github.com) by Github, Inc. (v8.4.1, **184** icons)
@@ -65,7 +65,7 @@ If you want to use any of the bundled icons, you need to add the icon fonts to y
 ![XCode screenshot](https://cloud.githubusercontent.com/assets/378279/12421498/2db1f93a-be88-11e5-89c8-2e563ba6251a.png)
 
  <details><summary>List of all available fonts to copy & paste in info.plist</summary>
-  
+
   ```xml
   <key>UIAppFonts</key>
   <array>
@@ -86,7 +86,7 @@ If you want to use any of the bundled icons, you need to add the icon fonts to y
     <string>Zocial.ttf</string>
   </array>
   ```
-  
+
 </details>
 
 <br>
